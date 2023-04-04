@@ -1,4 +1,4 @@
-# Bitcoin-modeling-with-ARIMA
+# Bitcoin-modeling-with-SARIMA
 
 ## Autor:
   Bartłomiej Gintowt

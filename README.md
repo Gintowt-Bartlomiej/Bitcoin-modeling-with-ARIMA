@@ -8,7 +8,8 @@
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
 
-### Plik z danymi jest zbyt duży by umieścić go na platformie github
+### Dane
+  https://www.kaggle.com/datasets/swaptr/bitcoin-historical-data
 
 ### Kod wykorzystany do raportu w języku ptyhon
   ARIMA.ipynb

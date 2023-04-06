@@ -8,7 +8,7 @@
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
 
-### Dane
+### Dane (plik waży zbyt dużo)
   https://www.kaggle.com/datasets/swaptr/bitcoin-historical-data
 
 ### Kod wykorzystany do raportu w języku ptyhon

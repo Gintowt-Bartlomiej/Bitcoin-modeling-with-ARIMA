@@ -16,3 +16,6 @@
  
 ### Raport w pliku pdf
   Bitcoin modeling with ARIMA.pdf
+  
+### Wykres predykcji
+  prediction.png

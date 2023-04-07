@@ -4,7 +4,7 @@
   Bartłomiej Gintowt
   
 ## Krótki opis projektu:
-  Wykorzystanie szeregu czasowego sesonal ARIMA do analizy danych Bitcoina.
+  Wykorzystanie szeregu czasowego sesonal ARIMA do analizy danych Bitcoina oraz wyznaczenia predykcji.
   
 ## Pliki odpowiadające odpowiedniej częsci raportu:
 

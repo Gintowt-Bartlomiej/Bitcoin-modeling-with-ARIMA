@@ -1,7 +1,7 @@
 # Bitcoin-modeling-with-SARIMA
 
 ## Autor:
-  Bartłomiej Gintow
+  Bartłomiej Gintowt
   
 ## Krótki opis projektu:
   Wykorzystanie szeregu czasowego sesonal ARIMA do analizy danych Bitcoina oraz wyznaczenia predykcji.
